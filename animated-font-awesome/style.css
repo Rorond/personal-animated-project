@@ -18,7 +18,7 @@ section .row
     position: relative;
     top: -100%;
     width: 100%;
-    left: -50%;
+    left: -10%;
     display: flex;
     padding: 10px 0;
     white-space: nowrap;
